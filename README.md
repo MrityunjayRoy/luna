@@ -1,6 +1,6 @@
-# FastNews
+# Luna
 
-FastNews aggregator backend built with **FastAPI**, **MongoDB**, and **Redis**. Powered by **HuggingFace** for AI-driven insights.
+Luna aggregator backend built with **FastAPI**, **MongoDB**, and **Redis**. Powered by **HuggingFace** for AI-driven insights.
 
 
 ## Features
