@@ -1,6 +1,6 @@
-# IntelliNews Backend
+# FastNews
 
-Intelligent news aggregator backend built with **FastAPI**, **MongoDB**, and **Redis**. Powered by **HuggingFace** for AI-driven insights.
+FastNews aggregator backend built with **FastAPI**, **MongoDB**, and **Redis**. Powered by **HuggingFace** for AI-driven insights.
 
 
 ## Features
